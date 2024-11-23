@@ -354,7 +354,7 @@ img {
 }
 
 /*========== ACCESSORIES ==========*/
-.accessory__container {
+/* .accessory__container {
   grid-template-columns: repeat(2, 1fr);
   padding-bottom: 2rem;
 }
@@ -366,17 +366,17 @@ img {
   background-color: var(--container-color);
   box-shadow: 0 2px 6px rgba(65, 11, 16, .15);
   border-radius: 1rem;
-}
+} */
 
 /* .accessory__content:hover {
   box-shadow: 0 3px 12px rgba(65, 11, 16, .15);
 } */
 
-.accessory__img {
+/* .accessory__img {
   width: 110px;
   justify-self: center;
   margin-bottom: .25rem;
-}
+} */
 
 /* .accessory__img img {
   width: 200px;
